@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/HandyHost_website/static/css/main.99d1a1e4.chunk.css",
-    "main.js": "/HandyHost_website/static/js/main.92420a9c.chunk.js",
-    "main.js.map": "/HandyHost_website/static/js/main.92420a9c.chunk.js.map",
+    "main.js": "/HandyHost_website/static/js/main.0593008b.chunk.js",
+    "main.js.map": "/HandyHost_website/static/js/main.0593008b.chunk.js.map",
     "runtime-main.js": "/HandyHost_website/static/js/runtime-main.e6da9bed.js",
     "runtime-main.js.map": "/HandyHost_website/static/js/runtime-main.e6da9bed.js.map",
     "static/css/2.026e76bc.chunk.css": "/HandyHost_website/static/css/2.026e76bc.chunk.css",
     "static/js/2.b9f3dd51.chunk.js": "/HandyHost_website/static/js/2.b9f3dd51.chunk.js",
     "static/js/2.b9f3dd51.chunk.js.map": "/HandyHost_website/static/js/2.b9f3dd51.chunk.js.map",
     "index.html": "/HandyHost_website/index.html",
-    "precache-manifest.a18a4e987dcdaa105a5bd5d354d0ad6e.js": "/HandyHost_website/precache-manifest.a18a4e987dcdaa105a5bd5d354d0ad6e.js",
+    "precache-manifest.315627994453ac110f111e9d052212b1.js": "/HandyHost_website/precache-manifest.315627994453ac110f111e9d052212b1.js",
     "service-worker.js": "/HandyHost_website/service-worker.js",
     "static/css/2.026e76bc.chunk.css.map": "/HandyHost_website/static/css/2.026e76bc.chunk.css.map",
     "static/css/main.99d1a1e4.chunk.css.map": "/HandyHost_website/static/css/main.99d1a1e4.chunk.css.map",
@@ -33,6 +33,6 @@
     "static/css/2.026e76bc.chunk.css",
     "static/js/2.b9f3dd51.chunk.js",
     "static/css/main.99d1a1e4.chunk.css",
-    "static/js/main.92420a9c.chunk.js"
+    "static/js/main.0593008b.chunk.js"
   ]
 }
