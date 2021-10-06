@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/HandyHost_website/static/css/main.99d1a1e4.chunk.css",
-    "main.js": "/HandyHost_website/static/js/main.0593008b.chunk.js",
-    "main.js.map": "/HandyHost_website/static/js/main.0593008b.chunk.js.map",
+    "main.js": "/HandyHost_website/static/js/main.3690739b.chunk.js",
+    "main.js.map": "/HandyHost_website/static/js/main.3690739b.chunk.js.map",
     "runtime-main.js": "/HandyHost_website/static/js/runtime-main.e6da9bed.js",
     "runtime-main.js.map": "/HandyHost_website/static/js/runtime-main.e6da9bed.js.map",
     "static/css/2.026e76bc.chunk.css": "/HandyHost_website/static/css/2.026e76bc.chunk.css",
-    "static/js/2.b9f3dd51.chunk.js": "/HandyHost_website/static/js/2.b9f3dd51.chunk.js",
-    "static/js/2.b9f3dd51.chunk.js.map": "/HandyHost_website/static/js/2.b9f3dd51.chunk.js.map",
+    "static/js/2.cc26348a.chunk.js": "/HandyHost_website/static/js/2.cc26348a.chunk.js",
+    "static/js/2.cc26348a.chunk.js.map": "/HandyHost_website/static/js/2.cc26348a.chunk.js.map",
     "index.html": "/HandyHost_website/index.html",
-    "precache-manifest.255d8c65a868f8f318e52db49aaa5ac7.js": "/HandyHost_website/precache-manifest.255d8c65a868f8f318e52db49aaa5ac7.js",
+    "precache-manifest.9ffdfd88fbc0b76bc4c115fc5ba2c163.js": "/HandyHost_website/precache-manifest.9ffdfd88fbc0b76bc4c115fc5ba2c163.js",
     "service-worker.js": "/HandyHost_website/service-worker.js",
     "static/css/2.026e76bc.chunk.css.map": "/HandyHost_website/static/css/2.026e76bc.chunk.css.map",
     "static/css/main.99d1a1e4.chunk.css.map": "/HandyHost_website/static/css/main.99d1a1e4.chunk.css.map",
-    "static/js/2.b9f3dd51.chunk.js.LICENSE.txt": "/HandyHost_website/static/js/2.b9f3dd51.chunk.js.LICENSE.txt",
+    "static/js/2.cc26348a.chunk.js.LICENSE.txt": "/HandyHost_website/static/js/2.cc26348a.chunk.js.LICENSE.txt",
     "static/media/Akash_GregOsur.svg": "/HandyHost_website/static/media/Akash_GregOsur.0b9b0176.svg",
     "static/media/ant.less": "/HandyHost_website/static/media/ProximaNova-Semibold.fd67ace1.ttf",
     "static/media/Sentinellogo_icon.svg": "/HandyHost_website/static/media/Sentinellogo_icon.facce58c.svg",
@@ -31,8 +31,8 @@
   "entrypoints": [
     "static/js/runtime-main.e6da9bed.js",
     "static/css/2.026e76bc.chunk.css",
-    "static/js/2.b9f3dd51.chunk.js",
+    "static/js/2.cc26348a.chunk.js",
     "static/css/main.99d1a1e4.chunk.css",
-    "static/js/main.0593008b.chunk.js"
+    "static/js/main.3690739b.chunk.js"
   ]
 }
